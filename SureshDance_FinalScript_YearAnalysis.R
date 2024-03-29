@@ -1,4 +1,4 @@
-######## This script has been adapted for a new dataset by Douglas Sponsler and Reed Johnson (johnson.5005@osu.edu). 
+######## This script has been adapted for a new dataset by Akul Gulrajani and Sreelakshmi Suresh (ssuresh@illinois.edu) from edits made by Douglas Sponsler and Reed Johnson. 
 ######## Unused portions of the original script have been commented out but not deleted. Additions are followed by the tag # Sponsler:
 
 # Electronic Supplementary Material 4 - R script to simulate dances from known waggle
@@ -26,6 +26,7 @@
 # the file will output a comma separated value file and an ASC raster file
 # you must create a "data" folder within the folder from which you are running the scripts
 # or adapt the paths for the instructions below
+
 
 ###
 ### Prepare the Ubuntu/R installation
