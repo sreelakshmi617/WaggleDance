@@ -1,0 +1,82 @@
+# Electronic Supplementary Material 3 - Model specification for the Bayesian distance to 
+# waggle run duration calibration used by JAGS 3.3.0. Called from R script ESM_4.R
+# ------------------------------------------------------------------------------------
+
+# Article title: Incorporating variability in honey bee waggle dance decoding improves
+# the mapping of communicated resource locations
+
+# Journal: Journal of Comparative Physiology A
+
+# Authors: Roger Schürch, Margaret J. Couvillon, Dominic D. R. Burns, Kiah
+# Tasman, David Waxman and Francis L. W. Ratnieks
+
+# Corresponding author: Roger Schürch, Evolution, Behaviour and
+# Environment, School of Life Sciences, University of Sussex, Brighton,
+# BN1 9QG, United Kingdom, R.Schuerch@sussex.ac.uk
+
+# Last revised: 2013-08-19
+
+
+# BEGIN JAGS FILE
+# Fit a calibration curve and predict new values
+
+# please see the JAGS manual for details on the language: 
+# http://sourceforge.net/projects/mcmc-jags/files/Manuals/3.x/
+
+# some introduction to model specification in BUGS dialects can be found here:
+# http://mathstat.helsinki.fi/openbugs/Manuals/ModelSpecification.html
+
+model{
+  
+  ## likelihood for calibration observations
+  ## here we specify the linear form of the calibration curve corresponding to the equation in the paper
+  ## N1 corresponds to the number of dances
+  for(i in 1:N1){					# the known calibration observations 
+    y[i] ~ dnorm(mu[i], tau)				# are modelled in this loop
+    mu[i] <- alpha0 + alpha[bee[i]] + beta * x[i]	# y[i] is the measured waggle duration (with a true mu[i] 
+  } 	     	      		      	     		# and precision tau), alpha0 is the population intercept
+  							# alpha[bee[i]] is the bee specific intercept
+  							# beta is the population slope and x[i] is the ith's dance
+							# distance
+
+  ## Model for bees; K should be the number of unique bees
+  for(i in 1:K){					#
+    alpha[i] ~ dnorm(0, tau.a.bee)			#
+  }							#
+
+  ## Model for predictions
+  ## this is the same as the first loop, only that the bee specific term is unknown and estimated from the
+  ## first loop
+  for(i in 1:N2){					# the unknown observation is modelled in 
+    y2[i] ~ dnorm(mu2[i], tau)				# this loop, I am actually not sure whether 
+    mu2[i] <- alpha0 + alpha2[i] + beta * x2[i]		# more than one should be done at a time.
+    x2[i] ~ dnorm(mux2, taux2)	   	  		#
+    alpha2[i] ~ dnorm(mean.alpha, tau.a.bee)		# 
+  }
+
+  # priors for calibration model
+  tau ~ dgamma(0.01, 0.01)
+  alpha0 ~ dnorm(0, 0.0001)
+  beta ~ dnorm(0, 0.0001) 
+  tau.a.bee ~ dgamma(0.01, 0.01)
+
+  # priors for prediction model
+  mux2 ~ dunif(0, 14000)				# before accounting for observed durations,
+       	 	  					# we assume no prior knowledge other than 
+							# the maxium foraging distance given by Eckert (1933);
+							# Eckert is a conservative estimate, others have
+							# found shorter maximum distances, e.g. Beutler (1954),
+							# or Pahl (2011).
+
+  taux2 ~ dgamma(0.01, 0.01)				# vague prior for the precision of the prediction
+
+  # calculations
+  mean.alpha <- mean(alpha)
+  sigma2 <- 1 / tau
+  sigma2.a.bee <- 1/tau.a.bee
+  # sigma2.b.bee <- 1/tau.b.bee
+  ICC <- sigma2.a.bee / (sigma2 + sigma2.a.bee)
+}
+
+
+# END JAGS FILE

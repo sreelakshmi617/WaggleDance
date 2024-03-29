@@ -1,0 +1,112 @@
+study;distance;duration;covariates;full reference;remarks
+De Marco & Menzel (2005);167;0.273;;De Marco, R. & Menzel, R. Encoding spatial information in the waggle dance, Jourl of Experimental Biology, 2005, 208, 3885-3894.;
+De Marco & Menzel (2005);245;0.397;;De Marco, R. & Menzel, R. Encoding spatial information in the waggle dance, Jourl of Experimental Biology, 2005, 208, 3885-3894.;
+De Marco & Menzel (2005);276;0.445;;De Marco, R. & Menzel, R. Encoding spatial information in the waggle dance, Jourl of Experimental Biology, 2005, 208, 3885-3894.;
+De Marco & Menzel (2005);282;0.457;;De Marco, R. & Menzel, R. Encoding spatial information in the waggle dance, Jourl of Experimental Biology, 2005, 208, 3885-3894.;
+Esch et al. (2001);35;0.186;North;"Esch, H. E.; Zhang, S.; Srinivasan, M. V. & Tautz, J. Honeybee dances communicate distances measured by optic flow ture, 2001, 411, 581-583.";
+Esch et al. (2001);35;0.143;South;"Esch, H. E.; Zhang, S.; Srinivasan, M. V. & Tautz, J. Honeybee dances communicate distances measured by optic flow ture, 2001, 411, 581-583.";
+Esch et al. (2001);52;0.256;North;"Esch, H. E.; Zhang, S.; Srinivasan, M. V. & Tautz, J. Honeybee dances communicate distances measured by optic flow ture, 2001, 411, 581-583.";
+Esch et al. (2001);70;0.152;South;"Esch, H. E.; Zhang, S.; Srinivasan, M. V. & Tautz, J. Honeybee dances communicate distances measured by optic flow ture, 2001, 411, 581-583.";
+Esch et al. (2001);120;0.475;North;"Esch, H. E.; Zhang, S.; Srinivasan, M. V. & Tautz, J. Honeybee dances communicate distances measured by optic flow ture, 2001, 411, 581-583.";
+Esch et al. (2001);140;0.229;South;"Esch, H. E.; Zhang, S.; Srinivasan, M. V. & Tautz, J. Honeybee dances communicate distances measured by optic flow ture, 2001, 411, 581-583.";
+Esch et al. (2001);175;0.624;North;"Esch, H. E.; Zhang, S.; Srinivasan, M. V. & Tautz, J. Honeybee dances communicate distances measured by optic flow ture, 2001, 411, 581-583.";
+Esch et al. (2001);220;0.424;South;"Esch, H. E.; Zhang, S.; Srinivasan, M. V. & Tautz, J. Honeybee dances communicate distances measured by optic flow ture, 2001, 411, 581-583.";
+Esch et al. (2001);254;0.811;North;"Esch, H. E.; Zhang, S.; Srinivasan, M. V. & Tautz, J. Honeybee dances communicate distances measured by optic flow ture, 2001, 411, 581-583.";
+Esch et al. (2001);448;1.045;North;"Esch, H. E.; Zhang, S.; Srinivasan, M. V. & Tautz, J. Honeybee dances communicate distances measured by optic flow ture, 2001, 411, 581-583.";
+Schürch et al. (this study);25.99434554;0.391259259;Hive 3;;
+Schürch et al. (this study);59.79093744;0.366;Hive 3;;
+Schürch et al. (this study);130;0.435;;;
+Schürch et al. (this study);176.8414708;0.587866667;Hive 1;;
+Schürch et al. (this study);208;0.537222222;;;
+Schürch et al. (this study);208.389857;0.5059;Hive 4;;
+Schürch et al. (this study);489.7164412;0.859791667;Hive 2;;
+Schürch et al. (this study);576.3781413;0.911619048;Hive 2;;
+Schürch et al. (this study);581.0112366;0.891190476;Hive 2;;
+Schürch et al. (this study);600;1.19675;;;
+Schürch et al. (this study);649.7086274;1.143818182;Hive 2;;
+Schürch et al. (this study);720.3402114;1.138242424;Hive 2;;
+Schürch et al. (this study);812.1433113;1.21875;Hive 2;;
+Schürch et al. (this study);919.3494618;1.447111111;Hive 2;;
+Schürch et al. (this study);1005.194169;1.56007335;Hive 2;;
+Schürch et al. (this study);1202.986851;1.843082792;Hive 2;;
+Schürch et al. (this study);1284.673836;2.089761905;Hive 2;;
+Srinivasan et al. (1999);60;0.217;Hive 1;"Srinivasan, M. V.; Zhang, S.; Altwein, M. & Tautz, J. Honeybee vigation: ture and calibration of the ""odometer"", Science, 2000, 287, 851-853.";
+Srinivasan et al. (1999);110;0.283;Hive 1;"Srinivasan, M. V.; Zhang, S.; Altwein, M. & Tautz, J. Honeybee vigation: ture and calibration of the ""odometer"", Science, 2000, 287, 851-853.";
+Srinivasan et al. (1999);110;0.312;Hive 2;"Srinivasan, M. V.; Zhang, S.; Altwein, M. & Tautz, J. Honeybee vigation: ture and calibration of the ""odometer"", Science, 2000, 287, 851-853.";
+Srinivasan et al. (1999);150;0.39;Hive 1;"Srinivasan, M. V.; Zhang, S.; Altwein, M. & Tautz, J. Honeybee vigation: ture and calibration of the ""odometer"", Science, 2000, 287, 851-853.";
+Srinivasan et al. (1999);190;0.441;Hive 1;"Srinivasan, M. V.; Zhang, S.; Altwein, M. & Tautz, J. Honeybee vigation: ture and calibration of the ""odometer"", Science, 2000, 287, 851-853.";
+Srinivasan et al. (1999);225;0.514;Hive 2;"Srinivasan, M. V.; Zhang, S.; Altwein, M. & Tautz, J. Honeybee vigation: ture and calibration of the ""odometer"", Science, 2000, 287, 851-853.";
+Srinivasan et al. (1999);340;0.733;Hive 2;"Srinivasan, M. V.; Zhang, S.; Altwein, M. & Tautz, J. Honeybee vigation: ture and calibration of the ""odometer"", Science, 2000, 287, 851-853.";
+Srinivasan et al. (1999);350;0.762;Hive 1;"Srinivasan, M. V.; Zhang, S.; Altwein, M. & Tautz, J. Honeybee vigation: ture and calibration of the ""odometer"", Science, 2000, 287, 851-853.";
+von Frisch (1967);200;0.45;;von Frisch, K. The Dance Language and Orientation of Bees Harvard University Press, 1967.;
+von Frisch (1967);300;0.5;;von Frisch, K. The Dance Language and Orientation of Bees Harvard University Press, 1967.;
+von Frisch (1967);500;0.95;;von Frisch, K. The Dance Language and Orientation of Bees Harvard University Press, 1967.;
+von Frisch (1967);1000;1.34;;von Frisch, K. The Dance Language and Orientation of Bees Harvard University Press, 1967.;
+von Frisch (1967);2000;2.08;;von Frisch, K. The Dance Language and Orientation of Bees Harvard University Press, 1967.;
+von Frisch (1967);3500;3.12;;von Frisch, K. The Dance Language and Orientation of Bees Harvard University Press, 1967.;
+von Frisch (1967);4500;3.98;;von Frisch, K. The Dance Language and Orientation of Bees Harvard University Press, 1967.;
+Wenner (1962);31;0.34;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-80;
+Wenner (1962);61;0.23;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-81;
+Wenner (1962);100;0.293333333;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-82;
+Wenner (1962);106;0.228;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-83;
+Wenner (1962);152;0.375;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-84;
+Wenner (1962);192;0.77;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-85;
+Wenner (1962);295;0.566;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-86;
+Wenner (1962);490;0.99;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-87;
+Wenner (1962);700;1.145;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-88;
+Wenner (1962);880;1.344545455;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-89;
+Wenner (1962);1030;1.77875;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-90;
+Wenner (1962);1050;1.784285714;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-91;
+Wenner (1962);1100;1.956666667;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-92;
+Wenner (1962);1120;1.405;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-93;
+Wenner (1962);1158;2.055;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-94;
+Wenner (1962);1230;2.060666667;;Wenner, A. M. Sound production during the waggle dance of the honey bee Animal Behaviour, 1962, 10, 79-95;
+Barron (2005);290;0.574;Site A;"Barron, A.; Zhu, H.; Robinson, G. & Srinivasan, M. Influence of flight time and flight environment on distance communication by dancing honey bees, Insectes sociaux, 2005, 52, 402-407.";
+Barron (2005);320;0.497;Site B;"Barron, A.; Zhu, H.; Robinson, G. & Srinivasan, M. Influence of flight time and flight environment on distance communication by dancing honey bees, Insectes sociaux, 2005, 52, 402-407.";
+Boch (1956);50;0.08013431;Italian;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);100;0.15626203;Italian;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);200;0.47480392;Italian;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);300;0.70645782;Italian;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);400;0.88311316;Italian;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);500;1.1400664;Italian;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);50;;Crainer;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);100;0.05457008;Crainer;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);200;0.2506129;Crainer;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);300;0.45254288;Crainer;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);400;0.60902971;Crainer;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);500;0.76706977;Crainer;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);50;;German;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);100;0.12753176;German;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);200;0.35938683;German;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);300;0.57030053;German;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);400;0.83172252;German;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);500;0.90083408;German;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);50;0.06722042;Caucasian;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);100;0.25908388;Caucasian;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);200;0.47480392;Caucasian;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);300;0.75155311;Caucasian;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);400;0.97488218;Caucasian;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);500;1.16251862;Caucasian;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);50;;Punic;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);100;0.16364411;Punic;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);200;0.3692067;Punic;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);300;0.5332194;Punic;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);400;0.86569261;Punic;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);500;0.90083408;Punic;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);50;0.13459722;Egypt;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);100;0.34011765;Egypt;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);200;0.7988662;Egypt;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);300;0.75155311;Egypt;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);400;1.44170715;Egypt;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Boch (1956);500;1.59194967;Egypt;Boch, R. Rassenmässige Unterschiede bei den Tänzen der Honigbiene (Apis mellifica L.), Jourl of Comparative Physiology A: Neuroethology, Sensory, Neural, and Behavioral Physiology, 1957, 40, 289-320.;"covariate is race; waggle run duration approximated from full circuit duration using von Frisch (1967)"
+Steche (1957);200;0.39;;Steche, W. Beitraege zur Alyse der Bienentaenze (Teil I). Insectes Sociaux, 1957, 4, 305-318.;
+Steche (1957);300;0.55;;Steche, W. Beitraege zur Alyse der Bienentaenze (Teil I). Insectes Sociaux, 1957, 4, 305-318.;
+Steche (1957);500;0.74;;Steche, W. Beitraege zur Alyse der Bienentaenze (Teil I). Insectes Sociaux, 1957, 4, 305-318.;
+Steche (1957);1000;1.29;;Steche, W. Beitraege zur Alyse der Bienentaenze (Teil I). Insectes Sociaux, 1957, 4, 305-318.;
+Steche (1957);2000;1.79;;Steche, W. Beitraege zur Alyse der Bienentaenze (Teil I). Insectes Sociaux, 1957, 4, 305-318.;
+Tautz et al. (2004);190;0.42;Water;"Tautz, J.; Zhang, S.; Spaethe, J.; Brockmann, A.; Si, A. & Srinivasan, M. Honeybee odometry: performance in varying natural terrain, PLoS Biol, 2004, 2, E211.";
+Tautz et al. (2004);290;0.44;Water;"Tautz, J.; Zhang, S.; Spaethe, J.; Brockmann, A.; Si, A. & Srinivasan, M. Honeybee odometry: performance in varying natural terrain, PLoS Biol, 2004, 2, E211.";
+Tautz et al. (2004);390;0.49;Water;"Tautz, J.; Zhang, S.; Spaethe, J.; Brockmann, A.; Si, A. & Srinivasan, M. Honeybee odometry: performance in varying natural terrain, PLoS Biol, 2004, 2, E211.";
+Tautz et al. (2004);190;0.36;Land;"Tautz, J.; Zhang, S.; Spaethe, J.; Brockmann, A.; Si, A. & Srinivasan, M. Honeybee odometry: performance in varying natural terrain, PLoS Biol, 2004, 2, E211.";
+Tautz et al. (2004);290;0.51;Land;"Tautz, J.; Zhang, S.; Spaethe, J.; Brockmann, A.; Si, A. & Srinivasan, M. Honeybee odometry: performance in varying natural terrain, PLoS Biol, 2004, 2, E211.";
+Tautz et al. (2004);390;0.57;Land;"Tautz, J.; Zhang, S.; Spaethe, J.; Brockmann, A.; Si, A. & Srinivasan, M. Honeybee odometry: performance in varying natural terrain, PLoS Biol, 2004, 2, E211.";

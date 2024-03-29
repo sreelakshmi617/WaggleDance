@@ -1,0 +1,66 @@
+Electronic Supplementary Material 1 - List of Electronic Supplementary Materials
+--------------------------------------------------------------------------------
+
+Article title: Incorporating variability in honey bee waggle dance decoding improves
+the mapping of communicated resource locations
+
+Journal: Journal of Comparative Physiology A
+
+Authors: Roger Schürch, Margaret J. Couvillon, Dominic D. R. Burns, Kiah
+Tasman, David Waxman and Francis L. W. Ratnieks
+
+Corresponding author: Roger Schürch, Evolution, Behaviour and
+Environment, School of Life Sciences, University of Sussex, Brighton,
+BN1 9QG, United Kingdom, R.Schuerch@sussex.ac.uk
+
+Last revised: 2013-05-27
+
+
+File name	Description
+---------------------------------------------------------------------------------
+
+ESM_1.txt	Short description of electronic supplementary material.
+
+ESM_2.csv 	Waggle dance data collected from multiple studies, only
+		giving one mean for a given distance.
+
+		Column names:
+		study		Author/year for the study
+		distance	Feeder distance
+		duration	Waggle run duration
+		covariates	Additional information available for the 
+				calibration data point
+		full reference	Full reference to the study
+
+ESM_3.jag 	Model specification for the Bayesian distance to waggle run
+		duration calibration used by JAGS 3.3.0. Called from R
+		script ESM_4.R.
+
+ESM_4.R 	R script to simulate dances from known waggle dance durations
+		and headings. The simulated dances are output as a
+		*.csv file with the easting and northings as
+		coordinates. The dances are also rasterized,
+		calculating the probability that a given raster was
+		visited by a dance, and plotted. We demonstrate how to
+		plot such heat maps on top of aerial photography, but
+		do not provide such aerial photography because we
+		purchased it comercially.
+
+ESM_5.csv Waggle dances used in our calibration experiment.
+
+		Column names:
+		(empty)		data row number
+		dance.id	ID of the dance
+		year		year of data collection
+		month		month of data collection
+		day		day of data collection
+		hour		hour of data collection
+		minute		minute of data collection
+		duration	mean duration of waggle runs for that dance
+		distance	feeder distance
+		bee.id		ID of the dancing bee
+		heading		mean heading indicated by the dancing bee to the 
+				feeder location
+
+
+
